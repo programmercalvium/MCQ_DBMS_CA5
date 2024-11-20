@@ -11,22 +11,18 @@
         "choices": [
           {
             "content": "GRANT",
-            "id": "efbb17af-1be0-4a91-81e5-f8b4285937b7",
             "is_correct": true
           },
           {
             "content": "REVOKE",
-            "id": "4ba7582a-8054-4ef7-8154-3456d888966b",
             "is_correct": false
           },
           {
             "content": "CREATE",
-            "id": "e12e8670-6a91-4b23-a431-bd641b76625c",
             "is_correct": false
           },
           {
             "content": "ALTER",
-            "id": "8ce10e12-7f02-4cf8-be93-ab237161e12d",
             "is_correct": false
           }
         ]
@@ -43,22 +39,18 @@
         "choices": [
           {
             "content": "REVOKE",
-            "id": "4a060b61-dc01-414f-932e-77a91cf888f2",
             "is_correct": true
           },
           {
             "content": "DENY",
-            "id": "5dbc5767-27b0-4f31-bde7-0c059258eb35",
             "is_correct": false
           },
           {
             "content": "REMOVE",
-            "id": "d2f3b005-ba79-4426-b119-858337d79f83",
             "is_correct": false
           },
           {
             "content": "DELETE",
-            "id": "4bf83850-0b63-453e-980c-3bcbced59d23",
             "is_correct": false
           }
         ]
@@ -75,22 +67,18 @@
         "choices": [
           {
             "content": "SELECT",
-            "id": "9229d313-8313-441f-86a1-d0732ea4135a",
             "is_correct": false
           },
           {
             "content": "UPDATE",
-            "id": "55306153-ae7b-4dff-9876-808700f39c72",
             "is_correct": false
           },
           {
             "content": "GRANT",
-            "id": "c1eb43ae-fd50-4531-8825-b839da521fdb",
             "is_correct": true
           },
           {
             "content": "DROP",
-            "id": "4c39dda1-1664-4436-90e7-201861060d47",
             "is_correct": false
           }
         ]
@@ -107,22 +95,18 @@
         "choices": [
           {
             "content": "Using prepared statements with parameterized queries",
-            "id": "87844d48-1ecd-45e3-abc8-2602f9ca5775",
             "is_correct": true
           },
           {
             "content": "Using dynamic SQL queries",
-            "id": "4e5e28cb-96db-49a8-8f99-11530ded5697",
             "is_correct": false
           },
           {
             "content": "Using hardcoded SQL queries",
-            "id": "853d5b5f-0e1b-4c64-b21f-761a1602e7b1",
             "is_correct": false
           },
           {
             "content": "Disabling user inputs",
-            "id": "5405028a-3031-48e4-8d23-8436b053d9d9",
             "is_correct": false
           }
         ]
@@ -139,22 +123,18 @@
         "choices": [
           {
             "content": "Password-based authentication",
-            "id": "633f3a04-f9ff-41c0-ac50-9caff8bc45cd",
             "is_correct": false
           },
           {
             "content": "Two-factor authentication",
-            "id": "e8a381a4-9e99-420d-8f9e-cbed2cc36f94",
             "is_correct": false
           },
           {
             "content": "Data encryption",
-            "id": "cb89bda3-f1a0-413e-bec2-c3e6e887b7d9",
             "is_correct": true
           },
           {
             "content": "Biometrics",
-            "id": "3d5bf25f-6f22-4637-ad41-372221bf2724",
             "is_correct": false
           }
         ]
@@ -171,22 +151,18 @@
         "choices": [
           {
             "content": "To reduce data redundancy",
-            "id": "a093a49c-e753-4249-95b6-260aa7db9cde",
             "is_correct": false
           },
           {
             "content": "To ensure data integrity",
-            "id": "0ac8d4dd-46df-4252-9dbf-5df94a575101",
             "is_correct": false
           },
           {
             "content": "To protect data from unauthorized access",
-            "id": "a4eb975a-efb4-43a7-8a7c-30a282fc167c",
             "is_correct": true
           },
           {
             "content": "To improve query performance",
-            "id": "f7f4f661-8ece-49cb-8408-127abec2709e",
             "is_correct": false
           }
         ]
@@ -203,22 +179,18 @@
         "choices": [
           {
             "content": "WHERE",
-            "id": "6c14491a-f057-4040-919e-25afd83996e5",
             "is_correct": true
           },
           {
             "content": "GROUP BY",
-            "id": "fc1b6af6-a9a6-4278-8e64-95292c2ad773",
             "is_correct": false
           },
           {
             "content": "ORDER BY",
-            "id": "bd60be3a-f333-4073-bc39-097a4d349e01",
             "is_correct": false
           },
           {
             "content": "JOIN",
-            "id": "bfb82946-748d-4b54-9178-36c02228ce78",
             "is_correct": false
           }
         ]
@@ -235,22 +207,18 @@
         "choices": [
           {
             "content": "Using HTTP",
-            "id": "ba759b07-58b4-45a9-a15e-ed2244e23ae4",
             "is_correct": false
           },
           {
             "content": "Using HTTPS",
-            "id": "d0eff251-bfd3-4075-8001-f888b3c3dfc2",
             "is_correct": true
           },
           {
             "content": "Using HTTP/2",
-            "id": "fb6d98fa-6d8e-4a38-8d42-4c0811157dce",
             "is_correct": false
           },
           {
             "content": "Using Telnet",
-            "id": "1528ad46-da01-4270-bddc-ca34fc50d6d2",
             "is_correct": false
           }
         ]
@@ -267,22 +235,18 @@
         "choices": [
           {
             "content": "A constraint between two attributes such that one attribute uniquely determines another",
-            "id": "e8d02bff-9185-4425-9bb6-a9a49e24c735",
             "is_correct": true
           },
           {
             "content": "A relationship between two tables",
-            "id": "2f6c30cd-352b-409b-a1d3-ebafb1683f39",
             "is_correct": false
           },
           {
             "content": "A method of indexing in SQL",
-            "id": "fbe6eeca-42b0-47ae-a9e0-6f5dfc86f08f",
             "is_correct": false
           },
           {
             "content": "A type of join operation",
-            "id": "96b9e48c-9467-4ca4-a81a-d7d9c394a01e",
             "is_correct": false
           }
         ]
@@ -299,22 +263,18 @@
         "choices": [
           {
             "content": "To define normalization forms",
-            "id": "172bba7f-f09c-4bf0-8795-7db047ac11a0",
             "is_correct": false
           },
           {
             "content": "To provide a set of rules for inferring all functional dependencies",
-            "id": "c8a4348d-8a08-4c73-82c4-4e8e6fcd1e3e",
             "is_correct": true
           },
           {
             "content": "To specify the types of joins",
-            "id": "f744283b-48da-403e-b887-f784907f5b89",
             "is_correct": false
           },
           {
             "content": "To describe the syntax of SQL commands",
-            "id": "7c50335d-6247-47f0-ac94-9b77d4a0bf88",
             "is_correct": false
           }
         ]
@@ -331,22 +291,18 @@
         "choices": [
           {
             "content": "Full functional dependency",
-            "id": "5b1e5092-5a73-4b58-ba0a-fe56e4f21349",
             "is_correct": false
           },
           {
             "content": "Partial dependency",
-            "id": "ba5e6ce6-9b5d-440a-aaf5-c55b1afb1742",
             "is_correct": true
           },
           {
             "content": "Transitive dependency",
-            "id": "b08e938b-48a3-4d3e-8616-61d1325abf99",
             "is_correct": false
           },
           {
             "content": "Multivalued dependency",
-            "id": "36f985c5-3220-44d3-9050-7bbe88d33eb1",
             "is_correct": false
           }
         ]
@@ -363,22 +319,18 @@
         "choices": [
           {
             "content": "If A -> B and B -> C, then A -> C",
-            "id": "6126f84d-39f6-4158-81e1-07b3810f07e3",
             "is_correct": true
           },
           {
             "content": "If A -> B, then B -> A",
-            "id": "a5c4e8bd-2a6c-437c-9bc5-2ca804302e55",
             "is_correct": false
           },
           {
             "content": "If A -> B, then B -> C",
-            "id": "a195f5dc-0ffa-48fe-a001-bff04a55ff22",
             "is_correct": false
           },
           {
             "content": "If A -> B and C -> D, then A -> D",
-            "id": "bcd15e95-0144-4a61-8c5a-93b7dd4d33e8",
             "is_correct": false
           }
         ]
@@ -395,22 +347,18 @@
         "choices": [
           {
             "content": "SHOW GRANTS FOR 'john';",
-            "id": "51a4a56b-71d9-480f-b146-a93ddc4591c8",
             "is_correct": true
           },
           {
             "content": "SELECT * FROM privileges WHERE user = 'john';",
-            "id": "7992a886-a458-4449-93f8-af1a7dd6e3ef",
             "is_correct": false
           },
           {
             "content": "DESCRIBE privileges WHERE user = 'john';",
-            "id": "70c9a48b-9bba-4bcc-b558-6ee55baaf963",
             "is_correct": false
           },
           {
             "content": "GRANT LIST FOR 'john';",
-            "id": "2e012552-bbd6-428b-a788-4e5041e1aa8d",
             "is_correct": false
           }
         ]
@@ -427,22 +375,18 @@
         "choices": [
           {
             "content": "Full dependency",
-            "id": "e9848abb-81d6-4fc1-acac-ab3a16eac387",
             "is_correct": false
           },
           {
             "content": "Partial dependency",
-            "id": "3c72b928-0f41-45bf-901e-42f360463c83",
             "is_correct": true
           },
           {
             "content": "Transitive dependency",
-            "id": "04a96adf-aa5c-4a89-b5fa-5eb589bdb879",
             "is_correct": false
           },
           {
             "content": "Multivalued dependency",
-            "id": "4e6b0941-cba3-4563-b453-772a4243d560",
             "is_correct": false
           }
         ]
@@ -459,22 +403,18 @@
         "choices": [
           {
             "content": "By using encryption protocols such as TLS",
-            "id": "4c2b8665-80bd-4f2b-9727-c6ee7699d4c6",
             "is_correct": true
           },
           {
             "content": "By using weak passwords",
-            "id": "585b631b-b9d0-448a-b760-98e6b4de5195",
             "is_correct": false
           },
           {
             "content": "By compressing data",
-            "id": "936f50fd-f9d7-4f3a-a576-e2535b851da1",
             "is_correct": false
           },
           {
             "content": "By using plaintext transmission",
-            "id": "313adfd4-5050-47cf-a4e9-66560569e5d9",
             "is_correct": false
           }
         ]
@@ -491,22 +431,18 @@
         "choices": [
           {
             "content": "SQL Injection",
-            "id": "395d2ea3-5f16-490a-8e3d-8a126ea87dd5",
             "is_correct": false
           },
           {
             "content": "Unauthorized access",
-            "id": "49638003-099d-4227-a102-91a602773c25",
             "is_correct": true
           },
           {
             "content": "Data interception",
-            "id": "ae669efd-e0ba-4fd2-9f97-01e3cac2a29a",
             "is_correct": false
           },
           {
             "content": "Man-in-the-middle attack",
-            "id": "74f48ef0-5cd0-49d5-a19b-a56582d62c1f",
             "is_correct": false
           }
         ]
@@ -523,22 +459,18 @@
         "choices": [
           {
             "content": "Full functional dependency",
-            "id": "e71ead6d-bd06-4812-b387-6cbf4967f8e9",
             "is_correct": false
           },
           {
             "content": "Partial dependency",
-            "id": "8e013192-6f12-42ab-a988-da3ea5d6fb6f",
             "is_correct": false
           },
           {
             "content": "Transitive dependency",
-            "id": "b53c0838-a5f8-4a57-a6c2-237f2206863b",
             "is_correct": true
           },
           {
             "content": "Multivalued dependency",
-            "id": "c9d44bba-92d9-4e88-9ca3-8e0dde22d358",
             "is_correct": false
           }
         ]
@@ -555,22 +487,18 @@
         "choices": [
           {
             "content": "The table must have duplicate rows.",
-            "id": "3281bfba-c92d-4a23-96c8-3a9f9fac2c07",
             "is_correct": false
           },
           {
             "content": "The table must have no transitive dependencies.",
-            "id": "4a780545-c71d-4c59-bc70-a33c29279a3b",
             "is_correct": false
           },
           {
             "content": "All values in the table must be atomic (indivisible).",
-            "id": "429f1ce1-90f4-44a5-9f8d-3c4373bcdb88",
             "is_correct": true
           },
           {
             "content": "The table must have a single candidate key.",
-            "id": "569a0a97-12da-4c4a-a28a-b5eea92ed4e2",
             "is_correct": false
           }
         ]
@@ -587,22 +515,18 @@
         "choices": [
           {
             "content": "It has no partial dependencies.",
-            "id": "7136e8c1-670d-47d3-ae7c-27d99e5a8442",
             "is_correct": true
           },
           {
             "content": "It has no transitive dependencies.",
-            "id": "86816a64-7690-4df3-9fea-3cdf09ef90f8",
             "is_correct": false
           },
           {
             "content": "It has a composite key.",
-            "id": "dc66c1d5-b04c-4320-a065-c1e469676cb8",
             "is_correct": false
           },
           {
             "content": "It has a single candidate key.",
-            "id": "0a9fcd59-1cd5-446a-a0c8-ea52458acfcf",
             "is_correct": false
           }
         ]
@@ -619,22 +543,18 @@
         "choices": [
           {
             "content": "It is in 2NF and has no transitive dependencies.",
-            "id": "7a06a0fa-3f0d-4b92-907c-2cdfdcfe2867",
             "is_correct": true
           },
           {
             "content": "It is in 1NF and has no partial dependencies.",
-            "id": "c4f01986-2a5b-4434-ab3a-70016f92a760",
             "is_correct": false
           },
           {
             "content": "It is in 2NF and has a single candidate key.",
-            "id": "0fd27c0e-ebaf-4ea5-b645-2aea3191ee16",
             "is_correct": false
           },
           {
             "content": "It is in 1NF and has a composite key.",
-            "id": "aadae00b-10b9-4631-9eb5-a8fae5aabd75",
             "is_correct": false
           }
         ]
@@ -651,22 +571,18 @@
         "choices": [
           {
             "content": "It is in 3NF and every determinant is a candidate key.",
-            "id": "55df67cb-770a-4faf-8e30-c7a00292a508",
             "is_correct": true
           },
           {
             "content": "It is in 2NF and has no transitive dependencies.",
-            "id": "56c80693-1e51-4310-b37b-3957c72d3799",
             "is_correct": false
           },
           {
             "content": "It has no multivalued dependencies.",
-            "id": "3cfd38e7-8611-4768-8d09-4e29c0055df6",
             "is_correct": false
           },
           {
             "content": "It is in 1NF and has a single candidate key.",
-            "id": "586b40d0-701e-4315-a0cb-67d57072f4da",
             "is_correct": false
           }
         ]
@@ -683,22 +599,18 @@
         "choices": [
           {
             "content": "It is in BCNF and has no multivalued dependencies.",
-            "id": "1aa5c966-3f90-4381-a731-637e04c85b20",
             "is_correct": true
           },
           {
             "content": "It is in 3NF and has no transitive dependencies.",
-            "id": "19a3062d-d0ac-4c10-bc7f-05d42e0d5afd",
             "is_correct": false
           },
           {
             "content": "It is in 2NF and has no partial dependencies.",
-            "id": "6b2ce83b-93c9-49e0-ad7f-279fc6bb36cc",
             "is_correct": false
           },
           {
             "content": "It is in 1NF and has no composite keys.",
-            "id": "e42d68a8-077d-40f9-ad16-9301658b75b0",
             "is_correct": false
           }
         ]
@@ -715,22 +627,18 @@
         "choices": [
           {
             "content": "It must be in 4NF and all join dependencies must be implied by candidate keys.",
-            "id": "39c20413-f474-41b1-b352-97305ea2b8aa",
             "is_correct": true
           },
           {
             "content": "It must be in 3NF and have no partial dependencies.",
-            "id": "5ca9e3f9-993e-4fe3-af4d-505ae7d24ea6",
             "is_correct": false
           },
           {
             "content": "It must be in 2NF and have a single candidate key.",
-            "id": "42d428fe-c236-4293-bbe0-9e4a9ae0fd0b",
             "is_correct": false
           },
           {
             "content": "It must be in BCNF and have no transitive dependencies.",
-            "id": "e0471a0a-e450-4867-9ef9-8982411be4b1",
             "is_correct": false
           }
         ]
@@ -747,22 +655,18 @@
         "choices": [
           {
             "content": "CourseID",
-            "id": "259b4a0b-b9b8-45cc-97e2-f019a0d02376",
             "is_correct": false
           },
           {
             "content": "CourseName",
-            "id": "c1484c6d-f206-4510-8a19-4dfd87042b7f",
             "is_correct": true
           },
           {
             "content": "StudentID",
-            "id": "356c6d84-dba9-4f1d-9621-16791c2076e3",
             "is_correct": false
           },
           {
             "content": "Name",
-            "id": "a76031d2-6b3f-4e29-8b23-813dd6370110",
             "is_correct": false
           }
         ]
@@ -779,22 +683,18 @@
         "choices": [
           {
             "content": "Create two tables: one for Employees and one for Departments.",
-            "id": "6aed68c8-f753-4f1c-9a50-d8659194a090",
             "is_correct": true
           },
           {
             "content": "Remove DepartmentName.",
-            "id": "cc2bfe57-1fdb-4c2b-868e-74a821abcfab",
             "is_correct": false
           },
           {
             "content": "Create a composite key using EmployeeID and DepartmentID.",
-            "id": "fd641bf8-5336-4c07-91b1-4990c581509e",
             "is_correct": false
           },
           {
             "content": "Keep the table as it is.",
-            "id": "6d084ff8-3952-4995-98d1-6a4dfc9307b7",
             "is_correct": false
           }
         ]
@@ -811,22 +711,18 @@
         "choices": [
           {
             "content": "CREATE TABLE Departments (DepartmentID INT PRIMARY KEY, DepartmentName VARCHAR(255));",
-            "id": "117f00ea-5d8e-4702-8298-9f34de7089ef",
             "is_correct": true
           },
           {
             "content": "CREATE TABLE Employees (EmployeeID INT PRIMARY KEY, EmployeeName VARCHAR(255));",
-            "id": "f5438833-f420-40ac-9531-ca472291d3b4",
             "is_correct": false
           },
           {
             "content": "CREATE TABLE Employees (EmployeeID INT, DepartmentID INT);",
-            "id": "bd8a6193-7750-4fcc-bb33-4ad26e04320d",
             "is_correct": false
           },
           {
             "content": "ALTER TABLE Employees DROP COLUMN DepartmentName;",
-            "id": "3a79b28a-7f9f-49ed-bf79-180c4b81fc7f",
             "is_correct": false
           }
         ]
@@ -843,22 +739,18 @@
         "choices": [
           {
             "content": "A non-key attribute depends on only part of a composite key.",
-            "id": "5b2b2368-9a68-4889-bccf-693dffa612e1",
             "is_correct": true
           },
           {
             "content": "A non-key attribute depends on the entire primary key.",
-            "id": "18dd9780-96f7-4e77-9f79-539a69231821",
             "is_correct": false
           },
           {
             "content": "A non-key attribute depends on another non-key attribute.",
-            "id": "24a1b8ad-f7fb-443a-b042-25ce38b9193e",
             "is_correct": false
           },
           {
             "content": "A non-key attribute does not depend on any key.",
-            "id": "fb635a51-fc31-43b3-b30a-9571768daef7",
             "is_correct": false
           }
         ]
@@ -875,22 +767,18 @@
         "choices": [
           {
             "content": "A table with composite keys where all non-key attributes are functionally dependent on the entire key.",
-            "id": "d6cf54ab-f789-4181-8c55-94965a660c3a",
             "is_correct": false
           },
           {
             "content": "A table with a single candidate key and no repeating groups.",
-            "id": "d28a5a42-39a9-497c-aa43-3963305bd26a",
             "is_correct": false
           },
           {
             "content": "A table with multiple candidate keys where some non-key attributes depend on part of a composite key.",
-            "id": "5791deab-fefb-4853-a32a-9190c8375266",
             "is_correct": false
           },
           {
             "content": "A table where every determinant is a candidate key and there are no partial dependencies.",
-            "id": "c22ea38f-193c-4c9d-944c-2302fa669559",
             "is_correct": true
           }
         ]
@@ -907,22 +795,18 @@
         "choices": [
           {
             "content": "Split into two tables: Projects(ProjectID, ProjectName) and Employees(EmployeeID, EmployeeName).",
-            "id": "254485ee-c71e-4f97-a353-59a55395dd54",
             "is_correct": true
           },
           {
             "content": "Remove ProjectName.",
-            "id": "e431cba3-a4f1-4063-b202-14647e486f47",
             "is_correct": false
           },
           {
             "content": "Create a composite key with ProjectID and EmployeeID.",
-            "id": "2386cdcb-171b-4dec-8f29-f43f18aca285",
             "is_correct": false
           },
           {
             "content": "Keep the table as it is.",
-            "id": "42215255-33e3-4ad5-a635-3534e90d1c2b",
             "is_correct": false
           }
         ]
@@ -939,22 +823,18 @@
         "choices": [
           {
             "content": "It is in BCNF and has no multivalued dependencies.",
-            "id": "c555a5d8-ba10-48e1-bac1-8f4b55fbe7fd",
             "is_correct": true
           },
           {
             "content": "It is in 2NF and has no partial dependencies.",
-            "id": "8ec33f17-57aa-4112-a090-db8e3d91a4a3",
             "is_correct": false
           },
           {
             "content": "It has a single candidate key.",
-            "id": "cfdee1f2-1930-4e53-a15f-18b363d01283",
             "is_correct": false
           },
           {
             "content": "It has a composite key.",
-            "id": "7978ce87-5782-4d26-8f3b-0ce682b286d4",
             "is_correct": false
           }
         ]
@@ -971,22 +851,18 @@
         "choices": [
           {
             "content": "A situation where one attribute in a table uniquely determines another attribute.",
-            "id": "c2b4420a-09b3-4f7c-a9fe-6d52cae788d0",
             "is_correct": false
           },
           {
             "content": "A situation where an attribute can have multiple values independent of other attributes.",
-            "id": "b5acb5cd-be7c-4ac7-bd5c-91b95fc4ead7",
             "is_correct": true
           },
           {
             "content": "A situation where a non-key attribute depends on another non-key attribute.",
-            "id": "19ccb23c-0b1b-466e-b1c1-264aee441af3",
             "is_correct": false
           },
           {
             "content": "A situation where all attributes are functionally dependent on the primary key.",
-            "id": "3ce1951b-e0bb-4043-9445-ba2b07efc1f4",
             "is_correct": false
           }
         ]
@@ -1003,22 +879,18 @@
         "choices": [
           {
             "content": "CREATE TABLE CustomerPhones (CustomerID INT, PhoneNumber VARCHAR(255));",
-            "id": "347c47d7-e5d9-43c1-aee5-67347b46bfaf",
             "is_correct": true
           },
           {
             "content": "ALTER TABLE Customers ADD PhoneNumber VARCHAR(255);",
-            "id": "e537b778-f826-46cf-948a-8d3513084e3c",
             "is_correct": false
           },
           {
             "content": "UPDATE Customers SET PhoneNumber = '123-456-7890';",
-            "id": "46cd7a53-e8cd-42e8-af51-899769ac5ac4",
             "is_correct": false
           },
           {
             "content": "DELETE FROM Customers WHERE PhoneNumber IS NULL;",
-            "id": "33875a50-5e88-4e20-b5a8-96bd5bb8df21",
             "is_correct": false
           }
         ]
@@ -1035,22 +907,18 @@
         "choices": [
           {
             "content": "The table must be in 4NF and all join dependencies must be implied by candidate keys.",
-            "id": "563bbdc7-e44a-4333-9cc8-1d59da91958f",
             "is_correct": true
           },
           {
             "content": "The table must be in BCNF and have no transitive dependencies.",
-            "id": "bf3e3774-7a30-499b-b668-bc09cdf5467b",
             "is_correct": false
           },
           {
             "content": "The table must be in 2NF and have no partial dependencies.",
-            "id": "83a980fb-5d66-4d33-a9c5-9622f0ea3bd3",
             "is_correct": false
           },
           {
             "content": "The table must be in 1NF and have a single candidate key.",
-            "id": "eb4c49a0-18c3-47cb-b49e-5eb300142443",
             "is_correct": false
           }
         ]
@@ -1067,22 +935,18 @@
         "choices": [
           {
             "content": "CREATE TABLE Products (ProductID INT, ProductName VARCHAR(255)); CREATE TABLE Orders (OrderID INT, ProductID INT);",
-            "id": "de9a3ee3-f626-4491-8a45-5267a5a17935",
             "is_correct": true
           },
           {
             "content": "CREATE TABLE Products (ProductID INT, OrderID INT);",
-            "id": "74524392-22fc-409d-a0d8-f939dba50ef8",
             "is_correct": false
           },
           {
             "content": "ALTER TABLE Sales DROP COLUMN OrderID;",
-            "id": "4a1d1fe1-f71c-4fea-82ef-43ae8cbdf24d",
             "is_correct": false
           },
           {
             "content": "UPDATE Sales SET OrderID = NULL;",
-            "id": "af8f3762-27f2-4c4e-acff-e6c703d0aa1a",
             "is_correct": false
           }
         ]
@@ -1099,22 +963,18 @@
         "choices": [
           {
             "content": "To improve data retrieval speed.",
-            "id": "b9d3a216-7504-4eb9-9b5c-08c1e31e0691",
             "is_correct": false
           },
           {
             "content": "To reduce data redundancy and improve data integrity.",
-            "id": "daecf7a1-6c2d-4047-9e68-e0f733e3e127",
             "is_correct": true
           },
           {
             "content": "To increase storage space.",
-            "id": "8325b4a5-8c31-44c8-8b6b-5e1e0335f3f3",
             "is_correct": false
           },
           {
             "content": "To create complex SQL queries.",
-            "id": "0f5bd2aa-0e82-4d83-aaf1-47435eea4e2c",
             "is_correct": false
           }
         ]
@@ -1131,22 +991,18 @@
         "choices": [
           {
             "content": "To increase data redundancy",
-            "id": "f2e3dd46-f25f-4e62-87cc-fb66e0ce2da6",
             "is_correct": false
           },
           {
             "content": "To improve query performance by reducing the number of joins.",
-            "id": "0cf408a2-cfa1-4510-a501-5f92d5acfe35",
             "is_correct": true
           },
           {
             "content": "To eliminate data redundancy",
-            "id": "0c8a959b-d915-42b5-9a17-68ee39f5ab5d",
             "is_correct": false
           },
           {
             "content": "To normalize the database further.",
-            "id": "6c97878a-a724-477b-9101-96cb900f60b9",
             "is_correct": false
           }
         ]
@@ -1163,22 +1019,18 @@
         "choices": [
           {
             "content": "When the database has many complex queries involving multiple joins",
-            "id": "b2334a1f-b528-403a-954d-604432176089",
             "is_correct": true
           },
           {
             "content": "When the database is small and simple.",
-            "id": "3332e6ac-3453-4d16-95bb-09cc70e23630",
             "is_correct": false
           },
           {
             "content": "When data integrity is the highest priority.",
-            "id": "c6bdc1eb-3f57-4b5c-b1bb-af83bf967fd8",
             "is_correct": false
           },
           {
             "content": "When the database is used for archival purposes only.",
-            "id": "49d47ed2-c35d-4f21-b509-e640db870ecd",
             "is_correct": false
           }
         ]
@@ -1195,22 +1047,18 @@
         "choices": [
           {
             "content": "Splitting tables into smaller tables.",
-            "id": "a4467276-0cdb-4665-8a00-13074c562c83",
             "is_correct": false
           },
           {
             "content": "Merging tables and duplicating data.",
-            "id": "a0c2f05f-ed12-4e28-b894-cecaa62b49f5",
             "is_correct": true
           },
           {
             "content": "Removing indexes from tables.",
-            "id": "62da36bd-ad42-4772-9d28-69128b76189a",
             "is_correct": false
           },
           {
             "content": "Adding foreign key constraints.",
-            "id": "a34ac78f-9cf2-40d1-9d9b-c266e3d61007",
             "is_correct": false
           }
         ]
@@ -1227,22 +1075,18 @@
         "choices": [
           {
             "content": "Increased complexity in SQL queries.",
-            "id": "88a38446-201f-41a6-800e-c5aa835a9efa",
             "is_correct": false
           },
           {
             "content": "Decreased data redundancy",
-            "id": "ef2fe9f4-a37b-4ed4-925b-f96f6238d381",
             "is_correct": false
           },
           {
             "content": "Increased storage requirements and potential data anomalies",
-            "id": "25bff198-3a36-46d6-93b3-76c2ef9e9d74",
             "is_correct": true
           },
           {
             "content": "Improved data integrity",
-            "id": "f35b647c-d8b5-48c7-8ceb-28c16886ba5d",
             "is_correct": false
           }
         ]
@@ -1259,22 +1103,18 @@
         "choices": [
           {
             "content": "That all transactions are executed one after the other.",
-            "id": "abd5ae63-f1cf-4350-b654-d8b594dc3e08",
             "is_correct": false
           },
           {
             "content": "That concurrent transactions result in a database state that could be obtained if transactions were executed serially.",
-            "id": "7e3689c7-8d2c-49f9-9e8a-73e47f6ba86c",
             "is_correct": true
           },
           {
             "content": "That transactions are always isolated.",
-            "id": "fba97b7c-1e7c-47f9-88a9-d15064ad5dc8",
             "is_correct": false
           },
           {
             "content": "That no two transactions can occur at the same time.",
-            "id": "25201beb-ed48-4e52-ba19-52ee6fbbb051",
             "is_correct": false
           }
         ]
@@ -1291,22 +1131,18 @@
         "choices": [
           {
             "content": "Conflict serializable schedule.",
-            "id": "4a331fe6-cef7-4c55-a992-c20586616a60",
             "is_correct": true
           },
           {
             "content": "Non-serial schedule.",
-            "id": "0d88bd05-aa4a-494c-a015-dbb2bad8469e",
             "is_correct": false
           },
           {
             "content": "Preemptive schedule",
-            "id": "40046ebf-4cf8-4179-8b06-97f55131989f",
             "is_correct": false
           },
           {
             "content": "Circular schedule",
-            "id": "233c385b-d2ef-4888-95b6-c642b6c008b5",
             "is_correct": false
           }
         ]
@@ -1323,22 +1159,18 @@
         "choices": [
           {
             "content": "Yes, because they do not access the same data items.",
-            "id": "4bd32203-2679-4135-90aa-c51bd246972b",
             "is_correct": true
           },
           {
             "content": "No, because they are accessing different data items.",
-            "id": "e98349c8-06e4-4ae0-ab75-5b67cd86b0a6",
             "is_correct": false
           },
           {
             "content": "Yes, because they are accessing the same data items.",
-            "id": "adeca866-a357-43dd-b9d7-f313289aea63",
             "is_correct": false
           },
           {
             "content": "No, because serializability cannot be determined with this information.",
-            "id": "489f79ca-3172-4067-84af-2a8d14034d06",
             "is_correct": false
           }
         ]
@@ -1355,22 +1187,18 @@
         "choices": [
           {
             "content": "Reading uncommitted data from another transaction.",
-            "id": "98242177-7106-4582-a8d5-a631a32f55bb",
             "is_correct": true
           },
           {
             "content": "Reading committed data from another transaction.",
-            "id": "ed2a240f-d1a9-456e-8496-336072e61939",
             "is_correct": false
           },
           {
             "content": "Writing uncommitted data to the database",
-            "id": "689a23ad-a2f8-4f6c-86e0-0fa49335ab15",
             "is_correct": false
           },
           {
             "content": "Writing committed data to the database",
-            "id": "fc5eb082-1f60-4490-be96-0bbc4616ac92",
             "is_correct": false
           }
         ]
@@ -1387,22 +1215,18 @@
         "choices": [
           {
             "content": "To backup the database regularly",
-            "id": "3300d61a-b88a-47fc-9238-90448968cb4f",
             "is_correct": false
           },
           {
             "content": "To ensure data consistency and integrity after a failure",
-            "id": "339dea52-1ee7-4cd8-888f-093d44eca253",
             "is_correct": true
           },
           {
             "content": "To improve database performance",
-            "id": "cc5b72df-03b2-4d61-a469-087b022e20dd",
             "is_correct": false
           },
           {
             "content": "To replicate the database",
-            "id": "08eea0e0-dffa-48b2-ae9d-c02797ba538a",
             "is_correct": false
           }
         ]
@@ -1419,22 +1243,18 @@
         "choices": [
           {
             "content": "Indexing.",
-            "id": "920ec4da-f41b-4b96-9b75-dd82c64b4c2a",
             "is_correct": false
           },
           {
             "content": "Log-based recovery.",
-            "id": "1b5901f1-f6ce-4bf9-9337-6c440185207c",
             "is_correct": true
           },
           {
             "content": "Denormalization.",
-            "id": "71acbf58-8e49-43c5-91ef-597edf60b2bf",
             "is_correct": false
           },
           {
             "content": "Sharding.",
-            "id": "9a61c29f-90ab-4f33-bdc4-bc3f2e405e54",
             "is_correct": false
           }
         ]
@@ -1451,22 +1271,18 @@
         "choices": [
           {
             "content": "To improve the speed of query execution.",
-            "id": "8a6859d5-7a46-44de-8921-edc4e302918a",
             "is_correct": false
           },
           {
             "content": "To keep a record of all transactions for recovery purposes.",
-            "id": "6df4a934-46d1-4318-9828-32e51330f459",
             "is_correct": true
           },
           {
             "content": "To reduce the amount of storage used by the database.",
-            "id": "9440ea14-cc79-4e42-8a13-871f5d2fe4ca",
             "is_correct": false
           },
           {
             "content": "To enforce database constraints.",
-            "id": "b3ae8060-de15-43e2-b53c-a6c77309054c",
             "is_correct": false
           }
         ]
@@ -1483,22 +1299,18 @@
         "choices": [
           {
             "content": "A point in time when the database is backed up",
-            "id": "4d308adb-c42e-430d-87f7-a915a9424622",
             "is_correct": false
           },
           {
             "content": "A point in time when all transactions are committed to the database",
-            "id": "774d2491-b036-42d7-93f4-79c8693a9c16",
             "is_correct": false
           },
           {
             "content": "A point in time when the database system writes all in-memory changes to the disk",
-            "id": "2b87fc5c-6b3c-419a-af3a-cdab490945e4",
             "is_correct": true
           },
           {
             "content": "A point in time when the database is restored from a backup",
-            "id": "954b505d-1fe1-46b2-8878-7c10f9807f90",
             "is_correct": false
           }
         ]
@@ -1515,22 +1327,18 @@
         "choices": [
           {
             "content": "COMMIT;",
-            "id": "48265330-6e02-4c3b-a4ba-d79415f4a6df",
             "is_correct": true
           },
           {
             "content": "ROLLBACK;",
-            "id": "3150eb1f-3b39-43fb-afca-2afc4f1eaac4",
             "is_correct": false
           },
           {
             "content": "SAVEPOINT;",
-            "id": "a8107f5c-4285-459e-83f6-3ca7bae9b3e9",
             "is_correct": false
           },
           {
             "content": "DELETE;",
-            "id": "182333a3-eabd-44e5-b6cc-1089d67fc0a9",
             "is_correct": false
           }
         ]
@@ -1547,22 +1355,18 @@
         "choices": [
           {
             "content": "COMMIT;",
-            "id": "604b266b-1e2d-4d8f-b6a5-428072963c37",
             "is_correct": false
           },
           {
             "content": "ROLLBACK;",
-            "id": "5d84db7c-2a0e-454a-9c12-326bc2f7b8c5",
             "is_correct": true
           },
           {
             "content": "SAVEPOINT;",
-            "id": "094541e5-d9de-4e1d-8808-10cc069573e5",
             "is_correct": false
           },
           {
             "content": "UPDATE;",
-            "id": "0703cc58-67af-4dcd-8bea-831de9d81b14",
             "is_correct": false
           }
         ]
